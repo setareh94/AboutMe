@@ -4,5 +4,5 @@
 
 <p>Here are the screenshots of the app:<p>
 	
-<img src="https://github.com/setareh94/AboutMe/blob/master/ScreenShots/iOS%20Simulator%20Screen%20Shot%20Aug%2021%2C%202014%2C%2011.50.24%20PM.png" alt="homepage" height="42" width="42">
+<img src="https://github.com/setareh94/AboutMe/blob/master/ScreenShots/iOS%20Simulator%20Screen%20Shot%20Aug%2021%2C%202014%2C%2011.50.24%20PM.png" alt="homepage" height="340" width="660">
 
