@@ -3,5 +3,5 @@
 <p1> I have released the app on the AppStore but it is still "Under The Review" I will update this section with the link to AppStore as soon as it passed Apple requirments</p1>
 
 <p>Here are the screenshots of the app:<p>
-	![HomePage]()
+	![HomePage](https://github.com/setareh94/AboutMe/blob/master/ScreenShots/iOS%20Simulator%20Screen%20Shot%20Aug%2021%2C%202014%2C%2011.50.24%20PM.png)
 
