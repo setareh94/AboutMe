@@ -14,9 +14,9 @@
     NSURL *buttonOneURL, *buttonTwoURL;
 }
 
-@property (nonatomic, strong) NSString *title, *text, *buttonOneText, *buttonTwoText;
-@property (nonatomic, strong) NSURL *buttonOneURL, *buttonTwoURL;
+@property (nonatomic, strong) NSString *title, *text, *buttonOneText;
+@property (nonatomic, strong) NSURL *buttonOneURL;
 
--(id)initWithTitle:(NSString*)titleVar andText:(NSString*)textVar andButtonOneTitle:(NSString*)buttonOneTextVar withLink:(NSURL*)buttonOneURLVar andButtonTwoTitle:(NSString*)buttonTwoTextVar withLink:(NSURL*)buttonTwoURLVar;
+-(id)initWithTitle:(NSString*)titleVar andText:(NSString*)textVar andButtonOneTitle:(NSString*)buttonOneTextVar withLink:(NSURL*)buttonOneURLVar;
 
 @end
